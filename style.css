@@ -115,6 +115,10 @@ a:hover {
     padding: 120px 300px;
 }
 
+.me {
+    align-self: flex-end;
+}
+
 .action {
     display: flex;
     flex-direction: row;
